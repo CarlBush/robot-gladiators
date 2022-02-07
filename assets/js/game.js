@@ -1,1 +1,7 @@
-window.alert("This is a test yo!");
+// This creates a function named "fight"
+
+function fight() {
+    window.alert("The fight has begun!");
+}
+
+fight();
